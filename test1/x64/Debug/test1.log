@@ -1,0 +1,10 @@
+﻿  t .cpp
+d:\a-毕业设计相关\test1\test1\t .cpp(213): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\a-毕业设计相关\test1\test1\t .cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\a-毕业设计相关\test1\test1\t .cpp(322): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\a-毕业设计相关\test1\test1\t .cpp(326): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\a-毕业设计相关\test1\test1\t .cpp(327): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\a-毕业设计相关\test1\test1\t .cpp(329): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\a-毕业设计相关\test1\test1\t .cpp(330): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\a-毕业设计相关\test1\test1\t .cpp(339): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  test1.vcxproj -> D:\A-毕业设计相关\test1\x64\Debug\test1.exe

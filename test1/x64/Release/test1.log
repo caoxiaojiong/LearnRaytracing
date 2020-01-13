@@ -1,0 +1,5 @@
+﻿  glad.c
+  t .cpp
+t .obj : error LNK2001: 无法解析的外部符号 glfwInit
+t .obj : error LNK2001: 无法解析的外部符号 glfwWindowHint
+D:\A-毕业设计相关\test1\x64\Release\test1.exe : fatal error LNK1120: 2 个无法解析的外部命令
